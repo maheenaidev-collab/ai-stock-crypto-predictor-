@@ -1,0 +1,9 @@
+ai-stock-crypto-predictor
+│
+├── data
+│   └── bitcoin.csv
+│
+├── train_model.py
+├── predictor.py
+├── requirements.txt
+└── README.md
